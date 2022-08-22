@@ -33,6 +33,10 @@
         "red-90": {
           "value": "#1b1616",
           "type": "color"
+        },
+        "red-70": {
+          "value": "#6f3331",
+          "type": "color"
         }
       },
       "red-vivid": {
@@ -102,7 +106,7 @@
     },
     "state": {
       "error-darker": {
-        "value": "#6f3331",
+        "value": "{colors.red.red-70}",
         "type": "color"
       },
       "error-dark": {
@@ -111,7 +115,7 @@
         "description": "Test"
       },
       "error": {
-        "value": "#d54309",
+        "value": "{colors.red-warm-vivid.red-warm-50v}",
         "type": "color"
       },
       "opacity": {
