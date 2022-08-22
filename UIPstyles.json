@@ -2,8 +2,40 @@
   "global": {
     "colors": {
       "red": {
+        "5": {
+          "value": "#dbcfcf",
+          "type": "color"
+        },
+        "10": {
+          "value": "#f8e1de",
+          "type": "color"
+        },
+        "30": {
+          "value": "#f2938c",
+          "type": "color"
+        },
+        "40": {
+          "value": "#e9695f",
+          "type": "color"
+        },
+        "50": {
+          "value": "#cccccc",
+          "type": "color"
+        },
+        "60": {
+          "value": "#a23737",
+          "type": "color"
+        },
         "70": {
           "value": "#6f3331",
+          "type": "color"
+        },
+        "80": {
+          "value": "#3e2927",
+          "type": "color"
+        },
+        "90": {
+          "value": "#1b1616",
           "type": "color"
         },
         "red-5": {
@@ -102,16 +134,16 @@
     },
     "state": {
       "error-darker": {
-        "value": "{colors.red.70}",
+        "value": "#6f3331",
         "type": "color"
       },
       "error-dark": {
-        "value": "{colors.red-vivid.red-60v}",
+        "value": "#ff0101",
         "type": "color",
         "description": "Test"
       },
       "error": {
-        "value": "{colors.red-warm-vivid.red-warm-50v}",
+        "value": "#d54309",
         "type": "color"
       },
       "opacity": {
@@ -123,7 +155,7 @@
     },
     "theme": {
       "primary-lighter": {
-        "value": "{colors.blue.blue-10}",
+        "value": "#d9e8f6",
         "type": "color"
       }
     },
@@ -152,6 +184,10 @@
         "value": "4",
         "type": "borderRadius"
       }
+    },
+    "Primary": {
+      "value": "#4122bf",
+      "type": "color"
     }
   },
   "$themes": [],
