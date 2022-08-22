@@ -2,20 +2,8 @@
   "global": {
     "colors": {
       "red": {
-        "5": {
-          "value": "#dbcfcf",
-          "type": "color"
-        },
-        "10": {
-          "value": "#f8e1de",
-          "type": "color"
-        },
         "30": {
           "value": "#f2938c",
-          "type": "color"
-        },
-        "40": {
-          "value": "#e9695f",
           "type": "color"
         },
         "50": {
@@ -36,6 +24,18 @@
         },
         "90": {
           "value": "#1b1616",
+          "type": "color"
+        },
+        "red-5": {
+          "value": "#f9eeee",
+          "type": "color"
+        },
+        "red-10": {
+          "value": "#f8e1de",
+          "type": "color"
+        },
+        "red-40": {
+          "value": "#e9695f",
           "type": "color"
         }
       },
@@ -92,6 +92,12 @@
           "value": "#005ea2",
           "type": "color"
         }
+      },
+      "red-warm-vivid": {
+        "red-warm-50v": {
+          "value": "#d62f09",
+          "type": "color"
+        }
       }
     },
     "state": {
@@ -101,6 +107,10 @@
       },
       "error-dark": {
         "value": "{colors.red-vivid.red-60v}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{colors.red-warm-vivid.red-warm-50v}",
         "type": "color"
       }
     },
