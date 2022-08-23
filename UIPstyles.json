@@ -26,16 +26,16 @@
           "value": "#a23737",
           "type": "color"
         },
+        "red-70": {
+          "value": "#6f3331",
+          "type": "color"
+        },
         "red-80": {
           "value": "#3e2927",
           "type": "color"
         },
         "red-90": {
           "value": "#1b1616",
-          "type": "color"
-        },
-        "red-70": {
-          "value": "#6f3331",
           "type": "color"
         }
       },
