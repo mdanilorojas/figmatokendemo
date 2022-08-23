@@ -122,7 +122,8 @@
       },
       "error": {
         "value": "{colors.red-warm-vivid.red-warm-50v}",
-        "type": "color"
+        "type": "color",
+        "description": "A vivid warm red."
       },
       "opacity": {
         "error-opacity-50": {
