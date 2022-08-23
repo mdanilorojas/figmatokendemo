@@ -94,12 +94,18 @@
         }
       },
       "red-warm-vivid": {
+        "red-warm-30v": {
+          "value": "#f39268",
+          "type": "color"
+        },
         "red-warm-50v": {
           "value": "#d54309",
           "type": "color"
-        },
-        "red-warm-30v": {
-          "value": "#f39268",
+        }
+      },
+      "red-warm": {
+        "red-10": {
+          "value": "#f4e3db",
           "type": "color"
         }
       }
