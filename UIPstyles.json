@@ -3,7 +3,7 @@
     "colors": {
       "red": {
         "red-5": {
-          "value": "#000",
+          "value": "#F9EEEE",
           "type": "color"
         },
         "red-10": {
@@ -139,7 +139,7 @@
       }
     },
     "small": {
-      "value": "16",
+      "value": "32",
       "type": "sizing"
     },
     "medium": {
