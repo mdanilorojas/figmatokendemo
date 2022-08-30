@@ -3,7 +3,7 @@
     "colors": {
       "red": {
         "red-5": {
-          "value": "#f9eeee",
+          "value": "#000",
           "type": "color"
         },
         "red-10": {
@@ -167,6 +167,10 @@
     "Primary": {
       "value": "#4122bf",
       "type": "color"
+    },
+    "test": {
+      "value": "10",
+      "type": "spacing"
     }
   },
   "global_Dark": {
