@@ -99,7 +99,7 @@
           "type": "color"
         },
         "red-warm-50v": {
-          "value": "#d54309",
+          "value": "{colors.red.red-30}",
           "type": "color"
         }
       },
