@@ -3,7 +3,7 @@
     "colors": {
       "red": {
         "red-5": {
-          "value": "#F9EEEE",
+          "value": "#ffc6c6",
           "type": "color"
         },
         "red-10": {
@@ -169,7 +169,7 @@
       "type": "color"
     },
     "test": {
-      "value": "10",
+      "value": "12",
       "type": "spacing"
     }
   },
