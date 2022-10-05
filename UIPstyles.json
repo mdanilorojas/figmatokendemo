@@ -155,12 +155,12 @@
       "type": "sizing"
     },
     "border": {
-      "medium": {
-        "value": "{border.small}*2",
-        "type": "borderRadius"
-      },
       "small": {
         "value": "4",
+        "type": "borderRadius"
+      },
+      "medium": {
+        "value": "{border.small}*2",
         "type": "borderRadius"
       }
     },
