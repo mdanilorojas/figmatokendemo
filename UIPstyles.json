@@ -1899,6 +1899,10 @@
       "Audiowide": {
         "value": "Audiowide",
         "type": "fontFamilies"
+      },
+      "Impact": {
+        "value": "Impact",
+        "type": "fontFamilies"
       }
     },
     "lineHeights": {
@@ -2156,7 +2160,7 @@
       },
       "regular": {
         "value": {
-          "fontFamily": "{fontFamilies.Audiowide}",
+          "fontFamily": "{fontFamilies.Impact}",
           "fontWeight": "{fontWeights.public-sans-1}",
           "lineHeight": "{lineHeights.2}",
           "fontSize": "{fontSize.4}",
