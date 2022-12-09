@@ -2160,7 +2160,7 @@
       },
       "regular": {
         "value": {
-          "fontFamily": "{fontFamilies.Impact}",
+          "fontFamily": "{fontFamilies.puritan}",
           "fontWeight": "{fontWeights.public-sans-1}",
           "lineHeight": "{lineHeights.2}",
           "fontSize": "{fontSize.4}",
