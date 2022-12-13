@@ -1289,7 +1289,7 @@
         "type": "color"
       },
       "primary-vivid": {
-        "value": "{Success.success}",
+        "value": "{Error.error-dark}",
         "type": "color"
       },
       "primary-dark": {
