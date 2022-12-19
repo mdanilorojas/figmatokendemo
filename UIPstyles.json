@@ -1289,7 +1289,7 @@
         "type": "color"
       },
       "primary-vivid": {
-        "value": "{Error.error-dark}",
+        "value": "{Info.info-light}",
         "type": "color"
       },
       "primary-dark": {
