@@ -1277,7 +1277,7 @@
   "orange_theme_v0.1": {
     "Primary": {
       "primary-lighter": {
-        "value": "{System.blue-10}",
+        "value": "{Accent cool.accent-cool-lighter}",
         "type": "color"
       },
       "primary-light": {
