@@ -1277,7 +1277,7 @@
   "orange_theme_v0.1": {
     "Primary": {
       "primary-lighter": {
-        "value": "{Accent cool.accent-cool-lighter}",
+        "value": "{Error.error-dark}",
         "type": "color"
       },
       "primary-light": {
